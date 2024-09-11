@@ -48,7 +48,7 @@ npm install
 Setelah semua dependensi terinstal, jalankan perintah berikut untuk memulai aplikasi:
 
 ```bash
-npm start
+npm run dev
 ```
 
 Aplikasi akan berjalan di mode pengembangan dan bisa diakses melalui [http://localhost:3000](http://localhost:3000).
