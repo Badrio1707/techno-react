@@ -1,0 +1,32 @@
+.toolbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 15px;
+    margin: 0;
+    height: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+    img{
+        height: 100%;
+    }
+
+    .logout-button{
+        height: 34px;
+        width: 34px;
+    }
+}
+
+.all-toolbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 15px;
+    margin: 0;
+    height: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+    img{
+        height: 100%;
+    }
+}

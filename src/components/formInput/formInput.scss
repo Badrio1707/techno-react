@@ -1,0 +1,28 @@
+.form-input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    
+
+    p{
+        font-size: 20px;
+        margin: 0;
+        padding: 0;
+        font-weight: 500;
+        color: #747474;
+    }
+
+    input{
+        font-size: 16px;
+        padding: 5px 10px;
+        outline: none;
+        border-radius: 5px;
+        border: none;
+        width: 120%;
+        color: #747474;
+
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    }
+}

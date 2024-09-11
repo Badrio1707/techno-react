@@ -1,0 +1,28 @@
+// src/components/category/CategoryList.scss
+.category-list {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 10px 0;
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+  
+    .category-item {
+      display: inline-block;
+      margin-right: 15px;
+      padding: 10px;
+      text-align: center;
+      cursor: pointer;
+  
+      p {
+        margin: 0;
+        font-size: 14px;
+      }
+  
+      &.active {
+        border-bottom: 2px solid #007bff; /* Highlight active category */
+        font-weight: bold;
+      }
+    }
+  }
+  
