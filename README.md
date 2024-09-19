@@ -72,7 +72,6 @@ techno-react/
 ├── public/            # Direktori untuk file statis
 ├── src/               # Direktori untuk sumber kode utama
 │   ├── components/    # Direktori untuk semua komponen React
-│   ├── redux/         # Direktori untuk setup Redux (actions, reducers, store)
 │   ├── styles/        # Direktori untuk file styling
 │   └── App.js         # File utama aplikasi
 ├── .gitignore         # File untuk mengabaikan file/direktori tertentu dari Git
